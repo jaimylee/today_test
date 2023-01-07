@@ -1,1 +1,1 @@
-print("hello world, i'm eunji")
+print("HELLO WORLD, WE'RE PLANB!")
